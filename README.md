@@ -3,6 +3,11 @@
 > gradle build
 
 
+## idea
+
+> gradle idea && gradle openIdea
+
+
 ## dependencyReport
 
 > gradle dependencyReport
