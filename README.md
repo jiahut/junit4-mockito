@@ -22,3 +22,7 @@
 ```
 
 https://javacodehouse.com/blog/mockito-tutorial/
+
+## test with filter
+
+> gradle clean test --tests "Sample*"
